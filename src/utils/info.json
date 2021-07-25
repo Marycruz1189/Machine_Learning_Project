@@ -1,0 +1,11 @@
+{
+    "project_name" : "Clasificación y Detección de residuos sólidos", 
+    "author" : "Mary Cruz", 
+    "linkedin" : "https://www.linkedin.com/in/marycruzmezarivas/",
+    "e_mail" :  "maryc-11@hotmail.com",
+    "project_title" : "Clasificación y Detección de residuos sólidos",
+    "project_description" : "Con el aumento de la generación de residuos, se plantean estrategias para la clasificación y detección de estos, mediante el uso de redes neuronales para la clasificación  y Detecto para la detección y visión de la computadora. Herramientas que permitirán la separación correcta de los desechos",
+    "flask_port" : 6060,
+    "streamlit_port" : 8501,
+    
+}
